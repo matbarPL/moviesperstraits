@@ -1,4 +1,4 @@
-# stance-tagger-kedro
+# movies-pers-traits
 Movie ratings thanks to given personality traits
 
 ![Sign in](https://github.com/matbarPL/moviesperstraits/blob/master/screens/sign_in.png)
