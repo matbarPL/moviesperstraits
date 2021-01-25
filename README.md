@@ -1,5 +1,5 @@
 # stance-tagger-kedro
-Bachelor thesis for stance detectionwith React, Flask, and SQL
+Movie ratings thanks to given personality traits
 
 ![Sign in](https://github.com/matbarPL/moviesperstraits/blob/master/screens/sign_in.png)
 
